@@ -1,0 +1,20 @@
+.App{
+  text-align: center;
+}
+.nav-bar ul{
+  list-style: none;
+  margin: 0px;
+  padding: 0px;
+
+}
+.nav-bar li{
+  display: inline-block;
+  margin: 20px;
+}
+.nav-bar a{
+  color: black;
+  cursor: pointer;
+}
+.nav-bar a:hover, a:active,a.active{
+  color: orangered;
+}
